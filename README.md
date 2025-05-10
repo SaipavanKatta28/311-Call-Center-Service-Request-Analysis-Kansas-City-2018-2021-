@@ -44,7 +44,8 @@ This end-to-end data analytics project analyzes over 1.5 million 311 service req
 - **Metadata Enrichment**: Added Load Date and User
 - **Export**: Final cleaned dataset pushed to SQL Server
 
-📄 [Full cleaning steps documented here](./Data%20Cleaning.docx)
+📄 [Full cleaning steps documented here](./Data%20Cleaning.pdf)
+
 
 ---
 
@@ -58,7 +59,8 @@ This end-to-end data analytics project analyzes over 1.5 million 311 service req
 - **91.6%** of all requests were closed, only 2.3% open across 2018–2021
 - Categories like **“Weeds”** and **“Property Violations”** have longest delays
 
-📄 [Detailed SQL analysis available here](./KC_CallCenter_SQL_Analysis.docx)
+📄 [Detailed SQL analysis available here](./KC_CallCenter_SQL_Analysis.pdf)
+
 
 ---
 
