@@ -64,6 +64,10 @@ This end-to-end data analytics project analyzes over 1.5 million 311 service req
 
 **Power BI Dashboards**:
 ![image](https://github.com/user-attachments/assets/1673be89-46e7-461e-a369-96f1953945d7)
+![image](https://github.com/user-attachments/assets/f6d0f237-4869-4d5f-92ee-39d95c80977c)
+![image](https://github.com/user-attachments/assets/998228f2-549d-4067-8c6d-9908ddc61536)
+
+
 
 
 
@@ -74,7 +78,7 @@ This end-to-end data analytics project analyzes over 1.5 million 311 service req
 
 - **SQL Server** (ETL, aggregation, joins, window functions)
 - **Alteryx Designer** (profiling, cleaning, workflow automation)
-- **Power BI / Tableau** (visual storytelling and KPIs)
+- **Power BI** (visual storytelling and KPIs)
 - **Microsoft Word / Excel** (reporting and QA)
 
 ---
