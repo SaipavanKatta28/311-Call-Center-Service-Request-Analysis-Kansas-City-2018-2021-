@@ -33,6 +33,8 @@ This end-to-end data analytics project analyzes over 1.5 million 311 service req
 ---
 
 ## 🧼 Data Cleaning Summary (via Alteryx)
+![Screenshot 2025-05-09 232444](https://github.com/user-attachments/assets/22eba37c-ae72-447a-9559-e95a87251a36)
+
 
 - **Input + Auto Field**: Ingested TSV and optimized field types
 - **Select**: Dropped irrelevant fields
