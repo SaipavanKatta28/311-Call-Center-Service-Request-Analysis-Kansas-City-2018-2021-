@@ -63,7 +63,7 @@ This end-to-end data analytics project analyzes over 1.5 million 311 service req
 ## 📊 Visual Highlights
 
 
-**[Power BI Dashboards](https://app.powerbi.com/reportEmbed?reportId=f9917365-ec26-40f0-b3c5-ffa716c0a653&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)**:
+**[Power BI Dashboards available here](https://app.powerbi.com/reportEmbed?reportId=f9917365-ec26-40f0-b3c5-ffa716c0a653&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)**:
 **311 Kansas City Call Center – Request Volume, Source & Status Overview (2018–2021)**
 ![image](https://github.com/user-attachments/assets/1673be89-46e7-461e-a369-96f1953945d7)
 
